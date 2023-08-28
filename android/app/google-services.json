@@ -1,0 +1,226 @@
+{
+  "project_info": {
+    "project_number": "504597435298",
+    "project_id": "chat-app-23320",
+    "storage_bucket": "chat-app-23320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504597435298:android:f0bf23af05a8d0fe6358fb",
+        "android_client_info": {
+          "package_name": "com.example.betting1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvijdRYT6jS5yhmhOkuX7IChjwHPzEeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504597435298-201md0intut3iihq92c15ah2qn725ea3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ozarkbet.info.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504597435298:android:cc5bff0fe0b4f12f6358fb",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvijdRYT6jS5yhmhOkuX7IChjwHPzEeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504597435298-201md0intut3iihq92c15ah2qn725ea3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ozarkbet.info.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504597435298:android:4bb2d39ed0e624f36358fb",
+        "android_client_info": {
+          "package_name": "com.example.fitness2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvijdRYT6jS5yhmhOkuX7IChjwHPzEeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504597435298-201md0intut3iihq92c15ah2qn725ea3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ozarkbet.info.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504597435298:android:7bffc8ebba47cff66358fb",
+        "android_client_info": {
+          "package_name": "com.example.secondproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvijdRYT6jS5yhmhOkuX7IChjwHPzEeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504597435298-201md0intut3iihq92c15ah2qn725ea3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ozarkbet.info.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504597435298:android:3bc3c9c474ced8296358fb",
+        "android_client_info": {
+          "package_name": "com.fitapp90.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvijdRYT6jS5yhmhOkuX7IChjwHPzEeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504597435298-201md0intut3iihq92c15ah2qn725ea3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ozarkbet.info.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504597435298:android:5786d381127226af6358fb",
+        "android_client_info": {
+          "package_name": "com.ozarkbet.info.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvijdRYT6jS5yhmhOkuX7IChjwHPzEeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504597435298-1oab4u1e6f7v5vvth6jok0j536hmpu8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504597435298-201md0intut3iihq92c15ah2qn725ea3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ozarkbet.info.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
